@@ -8,6 +8,7 @@ This project aims to monitor temperature, humidity and soil humidity of the moni
 * OneWire protocol
 * ADC
 * HTTP
+
 ![image](https://github.com/yunevo/Plant-monitoring-application/assets/156734673/e6b5c415-d946-4469-95d1-f17d18529a54)
 
 # Project components:
